@@ -1,0 +1,11 @@
+model O/p's
+
+1. decision reg model : 
+    Mean:  4.118585060756159
+    STD:  0.7588283810917568
+2. lin reg:
+    Mean:  5.030437102767306
+    STD:  1.0607661158294837
+3. random forest reg:
+    Mean:  3.4264032021951834
+    STD:  0.7385494557222056
